@@ -1,33 +1,47 @@
-# '좋은 개발자'로의 성장을 꿈꾸는 조영빈입니다.
+# 함께하고픈 개발자로 성장을 꿈꾸는 조영빈입니다.
 
 ## 🙋🏻‍♂️ About Me
 
-- 안녕하세요! 좋은 개발자가 되고자 노력하는 조영빈입니다.
 - 어려서부터 무엇인가 만드는 것에 대해 큰 성취감을 느꼈고, 지금은 개발에 빠져있습니다.
 - 성실함을 무기로 만들기 위해 **'일일커밋'** 을 하고 있습니다. (휴식도 중요하게 생각해서 주말엔...😅;;)
-- **Good Developer**에 대한 고민을 항상 합니다.
-- 활동적인 스포츠나 게임을 통해 스트레스를 해소합니다.
+- **함께하고 싶은 개발자** 란❓ 어떤 개발자인가 고민하고, 되기위해 노력하고 있습니다.
+- 활동적인 스포츠⚽⚾🏀 를 좋아합니다.
 
-<br><br>
+<br>
 
 ## 🛠 Skills
 
-### Frontend
+### Frontend  
+<div align="left">  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+</div>
 
-- JavaScript, HTML5, CSS3
-- Visual Studio Code
-- Git
+</td><td valign="top" width="33%">
 
-### Backend
+### Backend  
+<div align="left">  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+</div>
 
-- Python3
+</td><td valign="top" width="33%">
 
-### Interesting
+### DevOps  
+<div align="left">  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+</div>
 
-React, NodeJS,  Machine Learning Tech(TensorFlow, PyTorch ...), Cloud Infra(AWS, GCP...)
+</td></tr></table>  
+
+</td><td valign="top" width="33%"> 
+
+### Interest
+
+React, NodeJS, Machine Learning Tech(TensorFlow, PyTorch ...), Cloud Infra(AWS, GCP...)
 
 
-<br><br>
+<br>
 
 ## 🕹 Personal Experience & Projects
 
@@ -41,15 +55,7 @@ React, NodeJS,  Machine Learning Tech(TensorFlow, PyTorch ...), Cloud Infra(AWS,
     - Ruby on Rails 활용, 클라이언트에서 필요한 정보를 제공할 API 설계 및 구축
     - RoR의 SQLite3를 활용하여 DB 구축
 - 성과: 2016 CBNU-LINC 산학협력 페스티벌 (발표부분)금상 수상
-
-#### Code
-
-- Server: [https://github.com/opwe37/Food-Truck-Alarm-Server](https://github.com/opwe37/Food-Truck-Alarm-Server)
-
-- Client
-
-  - owner: [https://github.com/KimHyunPyo/FoodTruckOwner](https://github.com/KimHyunPyo/FoodTruckOwner)
-  - user: [https://github.com/lainrose/FoodtruckUser](https://github.com/lainrose/FoodtruckUser)
+- 깃 저장소: [Server](https://github.com/opwe37/Food-Truck-Alarm-Server), [Client_Owner](https://github.com/KimHyunPyo/FoodTruckOwner), [Client_User](https://github.com/lainrose/FoodtruckUser)
 
 <br>
 
@@ -61,23 +67,20 @@ React, NodeJS,  Machine Learning Tech(TensorFlow, PyTorch ...), Cloud Infra(AWS,
 - 역할: 안드로이드 앱 개발 수행
     - UI 화면 및 안드로이드 화면 설계
 - 성과: 제 3회 전북대 앱 창작 대회 금상 수상
-
-#### Code
-- [https://github.com/seokhyeonko/YesManApp](https://github.com/seokhyeonko/YesManApp)
-
-<br><br>
-
-## 🏫 Education
-
-#### 광주 인공지능사관학교
-
-2021.06.16 ~ (이수 중)
-
-- 광주광역시와 멋쟁이사자처럼에서 진행하는 AI 교육 과정
+- 깃 저장소: [예스맨](https://github.com/seokhyeonko/YesManApp)
 
 <br>
 
-#### 전북대학교 대학원(석사)
+## 🏫 Education
+
+### 광주 인공지능사관학교
+
+2021.06.16 ~ (이수 중)
+
+- '광주광역시'와 '멋쟁이사자처럼'에서 진행하는 AI 교육 과정
+
+
+### 전북대학교 대학원(석사)
 
 2018.03 ~ 2020.02
 
@@ -85,16 +88,14 @@ React, NodeJS,  Machine Learning Tech(TensorFlow, PyTorch ...), Cloud Infra(AWS,
 - 머신 러닝 기술을 이용한 코드 클론 분류 기술 연구
     - 졸업 논문 | TBCNN 기반 2단계 코드 클론 분류
 
-<br>
 
-
-#### 전북대학교
+### 전북대학교
 
 2012.03 ~ 2018.02
 
 - '소프트웨어공학과' 졸업
 
-<br><br>
+<br>
 
 ## 🏅 Certificate
 
