@@ -7,34 +7,40 @@
 - **함께하고 싶은 개발자** 란❓ 어떤 개발자인가 고민하고, 되기 위해 노력하고 있습니다.
 - 활동적인 스포츠⚽⚾🏀 를 좋아합니다.
 
-<br>
+</br>
 
 ## 🛠 Skills
 
+<table><tr><td valign="top">
+
+
+
 ### Frontend  
 <div align="left">  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top">
+
+
 
 ### Backend  
 <div align="left">  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top">
+
+
 
 ### DevOps  
 <div align="left">  
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
 </td></tr></table>  
-
-</td><td valign="top" width="33%"> 
 
 ### Interest
 
